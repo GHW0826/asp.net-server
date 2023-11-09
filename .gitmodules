@@ -1,0 +1,6 @@
+[submodule "mysite"]
+	path = mysite
+	url = https://github.com/GHW0826/mysite-back-asp.net.git
+[submodule "platform"]
+	path = platform
+	url = https://github.com/GHW0826/asp.net-platform.git
